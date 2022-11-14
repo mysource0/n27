@@ -151,7 +151,10 @@ body {
   background-color: #35b3ff;
   background-color: #4158D0;
   background-color: #C850C0;
-  background-image: linear-gradient(135deg, #C850C0 29%, #4158D0 83%);
+ background: #24C6DC;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #514A9D, #24C6DC);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #514A9D, #24C6DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
                             
   
   

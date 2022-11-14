@@ -161,7 +161,6 @@ body {
   
   
 }
-
 #ttxt { 
   font-size: 40px;
   background-color: auto;
@@ -171,7 +170,6 @@ body {
   border-top-left-radius: 20%;
   border-bottom-right-radius: 20%;
   font-family:cursive;
-  
 }
 .tym{
   height:flex;
@@ -179,4 +177,16 @@ body {
   text-align: right;
   color:#a4ff77;
   border-top: 4px blue;
+}
+.t11 {
+font-family: Trebuchet MS;
+font-size: 20px;
+letter-spacing: nullpx;
+word-spacing: nullpx;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: small-caps;
+text-transform: none;
 }
